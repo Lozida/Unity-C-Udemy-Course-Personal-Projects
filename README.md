@@ -1,6 +1,6 @@
 # Unity-CSharp-Udemy-Course-And-Personal-Projects
 A repository for the Unity/C# 3D Game Development course on Udemy and some personal projects and ideas.
 
-Od 1_First_Steps do 5_Zombie_Runner su projekti sa tečaja.
+Ftom 1_First_Steps to 5_Zombie_Runner are projects from the course.
 
-First_Basic_3D_Game i Testing_Game_Sandobx su osobni projekti/igirice.
+First_Basic_3D_Game and Testing_Game_Sandobx are personal projects/games.
